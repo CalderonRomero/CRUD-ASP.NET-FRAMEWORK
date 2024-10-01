@@ -123,7 +123,11 @@
     <Content Include="Content\Site.css" />
     <Content Include="Default.aspx" />
     <Content Include="favicon.ico" />
+    <Content Include="frmAlumno.aspx" />
+    <Content Include="frmAsignatura.aspx" />
     <Content Include="frmCarrera.aspx" />
+    <Content Include="frmDocente.aspx" />
+    <Content Include="frmLogin.aspx" />
     <Content Include="Global.asax" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
@@ -210,12 +214,40 @@
     <Compile Include="Default.aspx.designer.cs">
       <DependentUpon>Default.aspx</DependentUpon>
     </Compile>
+    <Compile Include="frmAlumno.aspx.cs">
+      <DependentUpon>frmAlumno.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmAlumno.aspx.designer.cs">
+      <DependentUpon>frmAlumno.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmAsignatura.aspx.cs">
+      <DependentUpon>frmAsignatura.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmAsignatura.aspx.designer.cs">
+      <DependentUpon>frmAsignatura.aspx</DependentUpon>
+    </Compile>
     <Compile Include="frmCarrera.aspx.cs">
       <DependentUpon>frmCarrera.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="frmCarrera.aspx.designer.cs">
       <DependentUpon>frmCarrera.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmDocente.aspx.cs">
+      <DependentUpon>frmDocente.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmDocente.aspx.designer.cs">
+      <DependentUpon>frmDocente.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.aspx.cs">
+      <DependentUpon>frmLogin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmLogin.aspx.designer.cs">
+      <DependentUpon>frmLogin.aspx</DependentUpon>
     </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>

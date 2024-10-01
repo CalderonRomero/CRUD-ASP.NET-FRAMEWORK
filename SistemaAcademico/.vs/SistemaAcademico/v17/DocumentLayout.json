@@ -1,0 +1,246 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\Downloads\\CRUD-.NET-FRAMEWORK\\SistemaAcademico\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{763FCDCC-9538-4E8E-9E7C-5C1B5ED09C82}|CapaPrensentacion\\CapaPrensentacion.csproj|C:\\Users\\ACER\\Downloads\\CRUD-.NET-FRAMEWORK\\SistemaAcademico\\capaprensentacion\\frmlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{763FCDCC-9538-4E8E-9E7C-5C1B5ED09C82}|CapaPrensentacion\\CapaPrensentacion.csproj|solutionrelative:capaprensentacion\\frmlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{763FCDCC-9538-4E8E-9E7C-5C1B5ED09C82}|CapaPrensentacion\\CapaPrensentacion.csproj|c:\\users\\acer\\downloads\\crud-.net-framework\\sistemaacademico\\capaprensentacion\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{763FCDCC-9538-4E8E-9E7C-5C1B5ED09C82}|CapaPrensentacion\\CapaPrensentacion.csproj|solutionrelative:capaprensentacion\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{189DC36A-33DC-40F9-BD70-C55717E4F095}|CapaNegocio\\CapaNegocio.csproj|C:\\Users\\ACER\\Downloads\\CRUD-.NET-FRAMEWORK\\SistemaAcademico\\capanegocio\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{189DC36A-33DC-40F9-BD70-C55717E4F095}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{763FCDCC-9538-4E8E-9E7C-5C1B5ED09C82}|CapaPrensentacion\\CapaPrensentacion.csproj|C:\\Users\\ACER\\Downloads\\CRUD-.NET-FRAMEWORK\\SistemaAcademico\\capaprensentacion\\frmalumno.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{763FCDCC-9538-4E8E-9E7C-5C1B5ED09C82}|CapaPrensentacion\\CapaPrensentacion.csproj|solutionrelative:capaprensentacion\\frmalumno.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{763FCDCC-9538-4E8E-9E7C-5C1B5ED09C82}|CapaPrensentacion\\CapaPrensentacion.csproj|C:\\Users\\ACER\\Downloads\\CRUD-.NET-FRAMEWORK\\SistemaAcademico\\capaprensentacion\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{763FCDCC-9538-4E8E-9E7C-5C1B5ED09C82}|CapaPrensentacion\\CapaPrensentacion.csproj|solutionrelative:capaprensentacion\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{763FCDCC-9538-4E8E-9E7C-5C1B5ED09C82}|CapaPrensentacion\\CapaPrensentacion.csproj|C:\\Users\\ACER\\Downloads\\CRUD-.NET-FRAMEWORK\\SistemaAcademico\\capaprensentacion\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{763FCDCC-9538-4E8E-9E7C-5C1B5ED09C82}|CapaPrensentacion\\CapaPrensentacion.csproj|solutionrelative:capaprensentacion\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{763FCDCC-9538-4E8E-9E7C-5C1B5ED09C82}|CapaPrensentacion\\CapaPrensentacion.csproj|C:\\Users\\ACER\\Downloads\\CRUD-.NET-FRAMEWORK\\SistemaAcademico\\capaprensentacion\\frmdocente.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{763FCDCC-9538-4E8E-9E7C-5C1B5ED09C82}|CapaPrensentacion\\CapaPrensentacion.csproj|solutionrelative:capaprensentacion\\frmdocente.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{763FCDCC-9538-4E8E-9E7C-5C1B5ED09C82}|CapaPrensentacion\\CapaPrensentacion.csproj|C:\\Users\\ACER\\Downloads\\CRUD-.NET-FRAMEWORK\\SistemaAcademico\\capaprensentacion\\frmcarrera.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{763FCDCC-9538-4E8E-9E7C-5C1B5ED09C82}|CapaPrensentacion\\CapaPrensentacion.csproj|solutionrelative:capaprensentacion\\frmcarrera.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{763FCDCC-9538-4E8E-9E7C-5C1B5ED09C82}|CapaPrensentacion\\CapaPrensentacion.csproj|C:\\Users\\ACER\\Downloads\\CRUD-.NET-FRAMEWORK\\SistemaAcademico\\capaprensentacion\\site.mobile.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{763FCDCC-9538-4E8E-9E7C-5C1B5ED09C82}|CapaPrensentacion\\CapaPrensentacion.csproj|solutionrelative:capaprensentacion\\site.mobile.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{763FCDCC-9538-4E8E-9E7C-5C1B5ED09C82}|CapaPrensentacion\\CapaPrensentacion.csproj|C:\\Users\\ACER\\Downloads\\CRUD-.NET-FRAMEWORK\\SistemaAcademico\\capaprensentacion\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{763FCDCC-9538-4E8E-9E7C-5C1B5ED09C82}|CapaPrensentacion\\CapaPrensentacion.csproj|solutionrelative:capaprensentacion\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{763FCDCC-9538-4E8E-9E7C-5C1B5ED09C82}|CapaPrensentacion\\CapaPrensentacion.csproj|C:\\Users\\ACER\\Downloads\\CRUD-.NET-FRAMEWORK\\SistemaAcademico\\capaprensentacion\\frmlogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{763FCDCC-9538-4E8E-9E7C-5C1B5ED09C82}|CapaPrensentacion\\CapaPrensentacion.csproj|solutionrelative:capaprensentacion\\frmlogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{763FCDCC-9538-4E8E-9E7C-5C1B5ED09C82}|CapaPrensentacion\\CapaPrensentacion.csproj|C:\\Users\\ACER\\Downloads\\CRUD-.NET-FRAMEWORK\\SistemaAcademico\\capaprensentacion\\site.master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{763FCDCC-9538-4E8E-9E7C-5C1B5ED09C82}|CapaPrensentacion\\CapaPrensentacion.csproj|solutionrelative:capaprensentacion\\site.master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{189DC36A-33DC-40F9-BD70-C55717E4F095}|CapaNegocio\\CapaNegocio.csproj|C:\\Users\\ACER\\Downloads\\CRUD-.NET-FRAMEWORK\\SistemaAcademico\\capanegocio\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{189DC36A-33DC-40F9-BD70-C55717E4F095}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{763FCDCC-9538-4E8E-9E7C-5C1B5ED09C82}|CapaPrensentacion\\CapaPrensentacion.csproj|C:\\Users\\ACER\\Downloads\\CRUD-.NET-FRAMEWORK\\SistemaAcademico\\capaprensentacion\\frmalumno.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{763FCDCC-9538-4E8E-9E7C-5C1B5ED09C82}|CapaPrensentacion\\CapaPrensentacion.csproj|solutionrelative:capaprensentacion\\frmalumno.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Alumno.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\CRUD-.NET-FRAMEWORK\\SistemaAcademico\\CapaNegocio\\Alumno.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\Alumno.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\CRUD-.NET-FRAMEWORK\\SistemaAcademico\\CapaNegocio\\Alumno.cs",
+              "RelativeToolTip": "CapaNegocio\\Alumno.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T04:56:39.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\CRUD-.NET-FRAMEWORK\\SistemaAcademico\\CapaPrensentacion\\packages.config",
+              "RelativeDocumentMoniker": "CapaPrensentacion\\packages.config",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\CRUD-.NET-FRAMEWORK\\SistemaAcademico\\CapaPrensentacion\\packages.config",
+              "RelativeToolTip": "CapaPrensentacion\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-01T04:33:18.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\CRUD-.NET-FRAMEWORK\\SistemaAcademico\\CapaPrensentacion\\Global.asax.cs",
+              "RelativeDocumentMoniker": "CapaPrensentacion\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\CRUD-.NET-FRAMEWORK\\SistemaAcademico\\CapaPrensentacion\\Global.asax.cs",
+              "RelativeToolTip": "CapaPrensentacion\\Global.asax.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwBMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T04:31:46.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmLogin.aspx",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\CRUD-.NET-FRAMEWORK\\SistemaAcademico\\CapaPrensentacion\\frmLogin.aspx",
+              "RelativeDocumentMoniker": "CapaPrensentacion\\frmLogin.aspx",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\CRUD-.NET-FRAMEWORK\\SistemaAcademico\\CapaPrensentacion\\frmLogin.aspx",
+              "RelativeToolTip": "CapaPrensentacion\\frmLogin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-01T04:23:00.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\CRUD-.NET-FRAMEWORK\\SistemaAcademico\\CapaPrensentacion\\Web.config",
+              "RelativeDocumentMoniker": "CapaPrensentacion\\Web.config",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\CRUD-.NET-FRAMEWORK\\SistemaAcademico\\CapaPrensentacion\\Web.config",
+              "RelativeToolTip": "CapaPrensentacion\\Web.config",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-01T03:37:11.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmCarrera.aspx",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\CRUD-.NET-FRAMEWORK\\SistemaAcademico\\CapaPrensentacion\\frmCarrera.aspx",
+              "RelativeDocumentMoniker": "CapaPrensentacion\\frmCarrera.aspx",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\CRUD-.NET-FRAMEWORK\\SistemaAcademico\\CapaPrensentacion\\frmCarrera.aspx",
+              "RelativeToolTip": "CapaPrensentacion\\frmCarrera.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-01T03:36:58.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\CRUD-.NET-FRAMEWORK\\SistemaAcademico\\CapaPrensentacion\\Site.Master",
+              "RelativeDocumentMoniker": "CapaPrensentacion\\Site.Master",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\CRUD-.NET-FRAMEWORK\\SistemaAcademico\\CapaPrensentacion\\Site.Master",
+              "RelativeToolTip": "CapaPrensentacion\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-01T02:45:34.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmDocente.aspx",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\CRUD-.NET-FRAMEWORK\\SistemaAcademico\\CapaPrensentacion\\frmDocente.aspx",
+              "RelativeDocumentMoniker": "CapaPrensentacion\\frmDocente.aspx",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\CRUD-.NET-FRAMEWORK\\SistemaAcademico\\CapaPrensentacion\\frmDocente.aspx",
+              "RelativeToolTip": "CapaPrensentacion\\frmDocente.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-01T04:34:28.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmAlumno.aspx",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\CRUD-.NET-FRAMEWORK\\SistemaAcademico\\CapaPrensentacion\\frmAlumno.aspx",
+              "RelativeDocumentMoniker": "CapaPrensentacion\\frmAlumno.aspx",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\CRUD-.NET-FRAMEWORK\\SistemaAcademico\\CapaPrensentacion\\frmAlumno.aspx",
+              "RelativeToolTip": "CapaPrensentacion\\frmAlumno.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-01T03:27:15.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Site.Mobile.Master",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\CRUD-.NET-FRAMEWORK\\SistemaAcademico\\CapaPrensentacion\\Site.Mobile.Master",
+              "RelativeDocumentMoniker": "CapaPrensentacion\\Site.Mobile.Master",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\CRUD-.NET-FRAMEWORK\\SistemaAcademico\\CapaPrensentacion\\Site.Mobile.Master",
+              "RelativeToolTip": "CapaPrensentacion\\Site.Mobile.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-01T03:41:43.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmLogin.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\CRUD-.NET-FRAMEWORK\\SistemaAcademico\\CapaPrensentacion\\frmLogin.aspx.cs",
+              "RelativeDocumentMoniker": "CapaPrensentacion\\frmLogin.aspx.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\CRUD-.NET-FRAMEWORK\\SistemaAcademico\\CapaPrensentacion\\frmLogin.aspx.cs",
+              "RelativeToolTip": "CapaPrensentacion\\frmLogin.aspx.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwDUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T04:24:07.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmAlumno.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\CRUD-.NET-FRAMEWORK\\SistemaAcademico\\CapaPrensentacion\\frmAlumno.aspx.cs",
+              "RelativeDocumentMoniker": "CapaPrensentacion\\frmAlumno.aspx.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\CRUD-.NET-FRAMEWORK\\SistemaAcademico\\CapaPrensentacion\\frmAlumno.aspx.cs",
+              "RelativeToolTip": "CapaPrensentacion\\frmAlumno.aspx.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T03:27:20.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Site.Master.designer.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\CRUD-.NET-FRAMEWORK\\SistemaAcademico\\CapaPrensentacion\\Site.Master.designer.cs",
+              "RelativeDocumentMoniker": "CapaPrensentacion\\Site.Master.designer.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\CRUD-.NET-FRAMEWORK\\SistemaAcademico\\CapaPrensentacion\\Site.Master.designer.cs",
+              "RelativeToolTip": "CapaPrensentacion\\Site.Master.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T03:44:59.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\CRUD-.NET-FRAMEWORK\\SistemaAcademico\\CapaNegocio\\Login.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\Login.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\CRUD-.NET-FRAMEWORK\\SistemaAcademico\\CapaNegocio\\Login.cs",
+              "RelativeToolTip": "CapaNegocio\\Login.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvwwAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T03:24:13.279Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
